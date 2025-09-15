@@ -1,0 +1,18 @@
+types of operators 
+1.arithimetic operators
+2.assignment operators
+3.comparison operators
+4.logical operators
+
+1.arithimetic operators
+---- +,-,/,*,%,++,--
+
+2.assignment operators
+--- +=,-=,*=,/=,%=
+
+3.comparison operators
+--- >,<,<=,>=,==,!=
+
+4.logical operators
+-- &&,||,!
+
