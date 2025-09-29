@@ -23,6 +23,26 @@ public class Reverse {
 			rev=rev*10+rem; //rev=0*10+3=3 3*10+2=32 32*10+1=321
 			num=num/10; //num=123/10=12 num=12/10=1 1/10=0
 		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		if(temp==rev)
 		{
 			System.out.println("it is palindrome number");
